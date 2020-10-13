@@ -1,0 +1,4 @@
+storePassword=lcc183614
+keyPassword=lcc183614
+keyAlias=sign
+storeFile=key/sign.jks
